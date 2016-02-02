@@ -1,0 +1,14 @@
+[
+  {
+    "path": "./symbol-lists/AMEX.csv",
+    "exchange": "amex"
+  },
+  {
+    "path": "./symbol-lists/NASDAQ.csv",
+    "exchange": "nasdaq"
+  },
+  {
+    "path": "./symbol-lists/NYSE.csv",
+    "exchange": "nyse"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "name": "metastock-ric",
+  "version": "1.0.0",
+  "description": "Convert ticker symbols from NASDAQ, NYSE and AMEX into Reuters RIC and export them as custom lists for metastock.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://suparngp@github.com/suparngp/Metastock-Custom-Lists.git"
+  },
+  "bin": {
+    "ric": "./index.js"
+  },
+  "preferGlobal": true,
+  "keywords": [
+    "metastock",
+    "ric",
+    "reuters",
+    "symbols",
+    "stock",
+    "trade",
+    "nyse",
+    "nasdaq",
+    "amex",
+    "ticker"
+  ],
+  "author": "Suparn Gupta <weeblysup@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suparngp/Metastock-Custom-Lists/issues"
+  },
+  "homepage": "https://github.com/suparngp/Metastock-Custom-Lists#readme",
+  "dependencies": {
+    "argparse": "^1.0.4",
+    "csv-parser": "^1.9.3",
+    "lodash": "^4.1.0",
+    "node-uuid": "^1.4.7",
+    "q": "^1.4.1"
+  }
+}
