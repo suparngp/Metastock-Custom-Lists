@@ -17,6 +17,8 @@ Use metastock-ric! This utility creates lists readable by metastock based on any
 
 ## Installation
 
+Install node js from [here](http://nodejs.org)
+
 `npm install -g metastock-ric`
 
 ## How to use it?
