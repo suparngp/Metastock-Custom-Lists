@@ -60,6 +60,12 @@ Lets say you want to group all symbols based on industries in AMEX, NASDAQ and N
 
 7. Save and exit. Restart Metastock and you should see all your custom lists in Power Console.
 
+----------
+
+![enter image description here](http://i.imgur.com/yIAcP7b.png)
+
+----------
+
 ## The MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
